@@ -1,0 +1,41 @@
+{
+  "group": [
+    {
+      "id": "1",
+      "name": "Nihira Group",
+      "members": "Mark,mary,john,maina",
+      "savings": "ksh.912,000"
+    },
+    {
+      "id": "2",
+      "name": "Equity Group",
+      "members": "chrispus,mike,abel",
+      "savings": "ksh740,000"
+    },
+    {
+      "id": "3",
+      "name": "KCB group",
+      "members": "brian,cate,mariam,David,Moses",
+      "savings": "ksh.760,000"
+    },
+    {
+      "id": "2a4a",
+      "name": "Internet Banking",
+      "members": "Lazaro,Victor,Baraka,Josh,Kibet",
+      "savings": "ksh.600,000"
+    },
+    {
+      "id": "87eb",
+      "name": "absa Group",
+      "members": "Gladys,Njeri,Susan,Shalom",
+      "savings": "700,000"
+    },
+    {
+      "id": "e385",
+      "name": "test group 6",
+      "members": "mar,luke",
+      "savings": "550,000",
+      "validation": true
+    }
+  ]
+}
